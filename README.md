@@ -1,20 +1,20 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">Hola 👋</h1>
 
 ###
 
-<p align="left">My name is Arnoldo and  I’m interested in programming, I’m from Guatemala</p>
+<p align="left">Mi nombre es Arnoldo y  me interesa la programación, soy de Guatemala</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mi</h2>
 
 ###
 
-<p align="left">📚 I’m currently learning javascript programming.<br>🎯 Goals: I want to be a professional in programming, to develop scalable solutions that adapt according to need.<br>🎲 Fun fact: I like to spend time with my family, play soccer, travel.</p>
+<p align="left">📚 Actualmente estoy aprendiendo programación en javascript.<br>🎯 Objeticos: Quiero ser un profesional en programación, para desarrollar soluciones escalables que se adapten según la necesidad.<br>🎲 Dato curioso: Me gusta pasar tiempo con mi familia, jugar futbol, ​​viajar.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Codigico con:</h2>
 
 ###
 
