@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">Sobre mí</h2>
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo programación en javascript.<br>🎯 Objeticos: Quiero ser un profesional en programación, para desarrollar soluciones escalables que se adapten según la necesidad.<br>🎲 Dato curioso: Me gusta pasar tiempo con mi familia, jugar futbol, ​​viajar.</p>
+<p align="left">📚 Actualmente estoy aprendiendo programación en javascript.<br>🎯 Objetivos: Quiero ser un profesional en la programación, para desarrollar soluciones escalables que se adapten según la necesidad.<br>🎲 Dato curioso: Me gusta pasar tiempo con mi familia, jugar futbol, ​​viajar.</p>
 
 ###
 
-<h2 align="left">Codigico con:</h2>
+<h2 align="left">Codifico con:</h2>
 
 ###
 
