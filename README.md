@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo programación en javascript.<br>🎯 Objetivos: Quiero ser un profesional en la programación, para desarrollar soluciones escalables que se adapten según la necesidad.<br>🎲 Dato curioso: Me gusta pasar tiempo con mi familia, jugar futbol, ​​viajar.</p>
+<p align="left">📚 Actualmente estoy programando en javascript utilizando la libreria React.<br>🎯 Objetivos: Quiero ser un profesional en la programación, para desarrollar soluciones escalables que se adapten según la necesidad.<br>🎲 Dato curioso: Me gusta pasar tiempo con mi familia, jugar futbol, ​​viajar.</p>
 
 ###
 
