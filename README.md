@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Arnoldo y  me interesa la programación, soy de Guatemala</p>
+<p align="left">Mi nombre es Arnoldo trabajo de programador, soy de Guatemala</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy programando en javascript utilizando la libreria React.
+<p align="left">📚 Actualmente trabajo como programador y estoy utilizando tecnologias para backend: python con django rest framework y en el frontend: estoy utlizando html, css, js, MUI, React js.
   <br>🎯 Objetivos: Crear soluciones escalables que se adapte segun la necesidad.
   <br>🎲 Dato curioso: Me gusta pasar tiempo con mi familia, jugar futbol, ​​viajar.
 </p>
@@ -22,27 +22,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mui,redux,react,docker,postman,nodejs,express,mongo,mysql,postgres,python,django,php,git,github,gitlab,linux,ubuntu,vscode" />
 </div>
 
 ###
